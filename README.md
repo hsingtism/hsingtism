@@ -1,0 +1,5 @@
+- 👋🏼 Hi, I’m @hsingtism
+- 👀 I’m interested in functional programming, although I am also working on webapps and other projects
+- 🌱 I’m currently learning the more advenced aspects of JavaScript and the more abstract part of computer science
+- 📫 I can be reached by E-mail at [hsing@flyingbat.net](mailto:hsing@flyingbat.net). 
+- 🌎 My works, including non-programming ones, can be found on my [website](https://hsing.org)
