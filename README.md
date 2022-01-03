@@ -1,4 +1,4 @@
-- 👋🏼 Hi, I’m @hsingtism
+- 👋🏼 Hi, I’m Hsing Lo, or @hsingtism 
 - 👀 I’m interested in functional programming, although I am also working on webapps and other projects
 - 🌱 I’m currently learning the more advenced aspects of JavaScript and the more abstract part of computer science
 - 📫 I can be reached by E-mail at [hsing@flyingbat.net](mailto:hsing@flyingbat.net). 
