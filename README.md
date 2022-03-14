@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning the more advenced aspects of JavaScript and the more abstract part of computer science
 - 📫 I can be reached by E-mail at [hsing@flyingbat.net](mailto:hsing@flyingbat.net). 
 - 🌎 My works, including non-programming ones, can be found on my [website](https://hsing.org)
+- 🔒 You can find a public PGP key of mine [in the repo](Key1_0x75240E61_public.asc) or [on my website](https://hsing.org/keys/Key1_0x75240E61_public.asc) 
