@@ -2,4 +2,3 @@
 - 🐝 a civil engineering student at Georgia Tech
 - 📫 Email: [hsing@flyingbat.net](mailto:hsing@flyingbat.net). 
 - 🌎 My works, including non-programming ones, can be found on my [website](https://hsing.org)
-- 🔒 GPG key: [0x6DFBD0361B558B43](Hsing Lo_0x1B558B43_public.asc)
